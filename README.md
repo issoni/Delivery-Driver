@@ -1,2 +1,5 @@
 # Delivery-Driver
- first game from 2d game dev course 
+
+Pick up delivery packages and drop them off to the customer. 
+
+First game from the 2D game development course. (C#/Unity) 
